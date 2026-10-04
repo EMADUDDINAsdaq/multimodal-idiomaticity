@@ -1,0 +1,18 @@
+# Dataset (coursework-private — see README)
+data/
+*.zip
+Task 2 NLP Dataset/
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/

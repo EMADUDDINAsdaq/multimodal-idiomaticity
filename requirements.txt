@@ -1,0 +1,10 @@
+torch
+pandas
+numpy
+matplotlib
+pillow
+scikit-learn
+seaborn
+transformers
+sentencepiece
+git+https://github.com/openai/CLIP.git
